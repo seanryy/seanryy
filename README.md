@@ -6,7 +6,7 @@
  
 ### bootstrapping
  
-🟣 **[spronta](https://spronta.com)** - generate, personalise and serve creative assets and media.
+🟣 **[spronta](https://spronta.com)** - the ai-native marketing system
  
 ### just for fun
  
