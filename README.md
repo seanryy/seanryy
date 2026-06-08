@@ -8,6 +8,10 @@
  
 🟣 **[spronta](https://spronta.com)** - the ai-native marketing system
  
+### work things
+
+vennie.ai - the ai sidekick for product people
+
 ### just for fun
  
 🎧 **[covibing](https://github.com/seanryy/covibing)** - open source multiplayer runtime for ai-assisted building. co-vibe coding, basically.
